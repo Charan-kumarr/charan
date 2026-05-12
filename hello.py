@@ -7,7 +7,7 @@ def duplicate_block_1(a, b):
     print(result1)
     print(result2)
     print(result3)
-    print(result4)
+    print(result4
 
     temp1 = []
     temp2 = []
